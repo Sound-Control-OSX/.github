@@ -1,6 +1,6 @@
 # Sound Control Advanced
 <div align="center">
-  <img src="https://static.macupdate.com/products/57342/m/phpaatbkc-logo.png?v=1679553985" width="300" height="auto;"> 
+  <img src="https://staticz.com/wp-content/uploads/2018/03/soundcontrol_22_icon_512.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
